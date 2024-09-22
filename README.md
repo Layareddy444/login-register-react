@@ -1,3 +1,9 @@
+#Run the following command to install dependencies
+npm install
+
+#Start the application by running:
+npm start
+
 #Scrrenshots of the Project
 ![register](https://github.com/user-attachments/assets/15a11663-ebea-42d8-93e6-79ca24f386eb)
 ![otp verification](https://github.com/user-attachments/assets/71a2eba3-203c-4de7-9c13-b967b97645cf)
