@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/login-register-react/static/css/main.87e380fe.css",
+    "main.js": "/login-register-react/static/js/main.e042fda2.js",
+    "static/js/453.007ad94a.chunk.js": "/login-register-react/static/js/453.007ad94a.chunk.js",
+    "static/media/iphone16.jpg": "/login-register-react/static/media/iphone16.88f51238ebe49576f87b.jpg",
+    "static/media/iphone15.jpg": "/login-register-react/static/media/iphone15.ac3eee2fbcda38d78df8.jpg",
+    "static/media/image.PNG": "/login-register-react/static/media/image.e320835865a7e72cc876.PNG",
+    "index.html": "/login-register-react/index.html",
+    "main.87e380fe.css.map": "/login-register-react/static/css/main.87e380fe.css.map",
+    "main.e042fda2.js.map": "/login-register-react/static/js/main.e042fda2.js.map",
+    "453.007ad94a.chunk.js.map": "/login-register-react/static/js/453.007ad94a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e380fe.css",
+    "static/js/main.e042fda2.js"
+  ]
+}
